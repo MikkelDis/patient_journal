@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mikke/OneDrive/Desktop/PROG_PROJECTS/C - PROJECTS/patient-journal/patient_journal/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\PatientJournal.dir\\src\\main.c.obj -c \"C:\\Users\\mikke\\OneDrive\\Desktop\\PROG_PROJECTS\\C - PROJECTS\\patient-journal\\patient_journal\\src\\main.c\"",
+  "file": "C:/Users/mikke/OneDrive/Desktop/PROG_PROJECTS/C - PROJECTS/patient-journal/patient_journal/src/main.c",
+  "output": "CMakeFiles/PatientJournal.dir/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/mikke/OneDrive/Desktop/PROG_PROJECTS/C - PROJECTS/patient-journal/patient_journal/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\PatientJournal.dir\\src\\patientReader.c.obj -c \"C:\\Users\\mikke\\OneDrive\\Desktop\\PROG_PROJECTS\\C - PROJECTS\\patient-journal\\patient_journal\\src\\patientReader.c\"",
+  "file": "C:/Users/mikke/OneDrive/Desktop/PROG_PROJECTS/C - PROJECTS/patient-journal/patient_journal/src/patientReader.c",
+  "output": "CMakeFiles/PatientJournal.dir/src/patientReader.c.obj"
+}
+]

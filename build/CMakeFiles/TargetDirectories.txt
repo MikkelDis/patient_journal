@@ -1,0 +1,3 @@
+C:/Users/mikke/OneDrive/Desktop/PROG_PROJECTS/C - PROJECTS/patient-journal/patient_journal/build/CMakeFiles/PatientJournal.dir
+C:/Users/mikke/OneDrive/Desktop/PROG_PROJECTS/C - PROJECTS/patient-journal/patient_journal/build/CMakeFiles/edit_cache.dir
+C:/Users/mikke/OneDrive/Desktop/PROG_PROJECTS/C - PROJECTS/patient-journal/patient_journal/build/CMakeFiles/rebuild_cache.dir
